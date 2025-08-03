@@ -32,7 +32,7 @@ A passionate Computer Science student exploring **Data Analytics**, **Computer V
 ## 📬 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-das-67255a255/)  
-📫 Mail me at: priyanka.das09282@gmail.com
+📫 Mail me at: priyanka.das0928@gmail.com
 
 ---
 
