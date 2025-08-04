@@ -1,5 +1,5 @@
 # Hi, I'm Priyanka Das 👋  
-A passionate Computer Science student exploring **Data Analytics**, **Computer Vision**, and **Machine Learning** — building smart, real-time systems that create real-world impact.
+*A passionate Computer Science student exploring **Data Analytics**, **Computer Vision**, and **Machine Learning** — building smart, real-time systems that create real-world impact.*
 
 ---
 
