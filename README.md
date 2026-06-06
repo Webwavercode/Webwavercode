@@ -1,42 +1,74 @@
-# Hi, I'm Priyanka Das 👋  
-*A passionate Computer Science student exploring **Data Analytics**, **Computer Vision**, and **Machine Learning** — building smart, real-time systems that create real-world impact.*
+# Hi, I'm Priyanka Das 👋
+
+Data Analyst and Computer Science Engineer passionate about transforming large-scale datasets into actionable insights through analytics, machine learning, and AI-driven systems.
+Currently working on data analytics, Trust & Safety systems, and machine learning projects involving spam detection, content moderation, experimentation, and large-scale data processing.
+
+## 💡 What I Do
+
+📊 Build data pipelines, dashboards, and analytics solutions to uncover trends and business insights.
+🔍 Develop machine learning systems for spam detection, abuse analysis, anomaly detection, and content moderation.
+🤖 Explore LLM evaluation, prompt engineering, and AI-assisted decision systems.
+📈 Apply statistical analysis, experimentation, and data visualization to solve real-world business problems.
+
+## 🛠️ Featured Projects
+
+### 🚨 YouTube Spam & Abuse Detection
+Built a machine learning pipeline to classify spam comments, abusive content, and suspicious engagement patterns using Python, SQL, NLP, and Scikit-learn.
+
+**Tech:** Python, Pandas, Scikit-learn, SQL, TF-IDF, Random Forest, XGBoost
 
 ---
+### 🤖 LLM Content Moderation Assistant
+Developed an evaluation framework for AI-powered moderation systems using prompt engineering, toxicity classification, and performance benchmarking.
 
-## 💡 What I Do  
-🔍 I build systems that detect, analyze, and automate — combining computer vision and data pipelines.  
-📊 Currently working on visualizing data insights and real-time detection projects using Python, SQL, and OpenCV.  
-🧠 My focus: transforming messy data and raw footage into **actionable insights** through applied ML and visual analytics.
-
----
-
-## 🛠️ Projects That Define Me
-
-🚔 **Forensic Crime Detection (Patent Published)** – Image-based hit-and-run vehicle detection using CCTV  
-😴 **Driver Drowsiness Detection** – Fatigue detection system using eye/mouth analysis from real-time webcam feeds  
-✋ **Hand Gesture Number Detection** – Real-time finger-counting via hand gestures and OpenCV  
-📈 **Healthcare Data Insights** – SQL + Power BI dashboard to track vitals, test patterns & EDA on patient data *(Coming Soon)*
+**Tech:** Gemini, OpenAI, Python, Streamlit, Prompt Engineering
 
 ---
+### 🧪 A/B Testing Framework
+Designed an experimentation framework to evaluate recommendation-system changes using statistical testing, confidence intervals, cohort analysis, and funnel analysis.
 
-## 🧠 Tech Stack
-
-**Languages:** Python, C, Java, R, HTML/CSS  
-**Frameworks & Tools:** OpenCV, Streamlit, Pandas, NumPy, Plotly, Git  
-**Databases:** MySQL, MongoDB  
-**Analytics & BI:** Power BI, Excel, SQL  
-**Core Areas:** Data Analytics · Real-time Computer Vision · EDA · Feature Extraction · ML Pipelines
+**Tech:** SQL, Python, Statistics, Experiment Design
 
 ---
+### 📊 Customer & Delivery Analytics Dashboard
+Analyzed 50K+ records and built Power BI dashboards to monitor customer behavior, delivery performance, cancellations, and revenue metrics.
 
-## 📬 Let's Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/priyanka-das-67255a255/)  
-📫 Mail me at: priyanka.das0928@gmail.com
+**Tech:** Power BI, Python, SQL
 
 ---
+### 🚔 Vehicle Hit & Run Crime Detection (Patent Published)
+Designed a computer vision system for vehicle detection and identification from CCTV footage to assist forensic investigations.
+
+## 💻 Technical Skills
+
+### Languages
+Python • SQL 
+
+### Data Analytics
+EDA • Data Cleaning • KPI Analysis • Statistical Analysis • A/B Testing • Hypothesis Testing • Forecasting
+
+### Machine Learning
+Random Forest • XGBoost • Logistic Regression • NLP • TF-IDF • Model Evaluation
+
+### AI & LLMs
+Prompt Engineering • LLM Evaluation • Hallucination Analysis • Content Moderation
+
+### Tools & Platforms
+Power BI • MySQL • Snowflake • Streamlit • Git • Excel • OpenCV
+
+## 📚 Current Focus
+* Trust & Safety Analytics
+* Spam & Abuse Detection
+* Machine Learning Systems
+* LLM Evaluation
+* Experimentation & A/B Testing
+* Data Engineering & Analytics
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+
+📧 [priyanka.das0928@gmail.com](mailto:priyanka.das0928@gmail.com)
 
 ## ⚡ Fun Fact
-
-I love combining the power of **AI and visual data** to solve real-world problems — whether it’s catching vehicles from CCTV, alerting drowsy drivers, or visualizing health trends through dashboards.  
-If it’s about seeing better through **code**, I’m all in!
+I enjoy building systems that turn noisy, large-scale data into meaningful insights—whether it's detecting spam on social platforms, evaluating AI moderation systems, or uncovering trends through analytics dashboards.
